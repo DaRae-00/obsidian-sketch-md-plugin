@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"id": "sketch-md-plugin",
+	"name": "SketchMD",
+	"version": "0.1.0",
+	"minAppVersion": "0.12.0",
+	"description": "A plugin for Obsidian allowing users to draw and sketch directly within markdown files.",
+	"author": "darae",
+	"authorUrl": "https://github.com/DaRae-00",
+	"fundingUrl": "https://www.buymeacoffee.com/jibsun.i",
 	"isDesktopOnly": false
 }
