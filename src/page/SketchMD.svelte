@@ -7,9 +7,7 @@
 	export let width;
 	export let height = 100;
 
-	onDestroy(() => {
-		console.log("destroy");
-	});
+	onDestroy(() => {});
 </script>
 
 <div class="container">
