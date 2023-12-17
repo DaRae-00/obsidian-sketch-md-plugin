@@ -18,7 +18,7 @@ export const lineColors = [
 		color: Colors.YELLOW,
 	},
 	{
-		isActive: false,
+		isActive: true,
 		color: Colors.PURPLE,
 	},
 	{
