@@ -8,12 +8,12 @@ const initialState: DrawingState = {
 	isPaint: false,
 	mode: DrawMode.Brush,
 	color: Colors.PRIMARY,
-	strokeWidth: 1,
+	strokeWidth: 3,
 	lines: [
 		{
 			mode: DrawMode.Brush,
 			color: Colors.PRIMARY,
-			strokeWidth: 1,
+			strokeWidth: 3,
 			points: [],
 		},
 	],

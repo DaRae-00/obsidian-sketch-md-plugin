@@ -47,7 +47,7 @@ export const lineWeights = [
 ];
 
 export const realLineWeights = {
-	1: 2,
+	1: 3,
 	2: 5,
 	3: 10,
 };
