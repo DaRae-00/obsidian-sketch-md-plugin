@@ -7,5 +7,6 @@
 	"author": "Darae",
 	"authorUrl": "https://github.com/DaRae-00",
 	"fundingUrl": "https://www.buymeacoffee.com/jibsun.i",
-	"isDesktopOnly": false
+	"isDesktopOnly": false,
+	"main": "main.js"
 }
