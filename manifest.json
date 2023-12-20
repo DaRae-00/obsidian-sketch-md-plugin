@@ -1,8 +1,8 @@
 {
 	"id": "sketch-md",
 	"name": "SketchMD",
-	"version": "1.0.3",
-	"minAppVersion": "1.4.16",
+	"version": "1.0.4",
+	"minAppVersion": "1.4.0",
 	"description": "A plugin for Obsidian allowing users to draw and sketch directly within markdown files.",
 	"author": "Darae",
 	"authorUrl": "https://github.com/DaRae-00",
